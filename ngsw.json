@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1591488212036,
+  "timestamp": 1593190682356,
   "index": "https://cassiolorenzett.github.io/test_pwa/index.html",
   "assetGroups": [
     {
@@ -10,15 +10,15 @@
       "urls": [
         "https://cassiolorenzett.github.io/test_pwa/favicon.ico",
         "https://cassiolorenzett.github.io/test_pwa/index.html",
-        "https://cassiolorenzett.github.io/test_pwa/main-es2015.1a467e5ea3f34c7a5b6e.js",
-        "https://cassiolorenzett.github.io/test_pwa/main-es5.1a467e5ea3f34c7a5b6e.js",
+        "https://cassiolorenzett.github.io/test_pwa/main-es2015.501cee77f7454af157d7.js",
+        "https://cassiolorenzett.github.io/test_pwa/main-es5.501cee77f7454af157d7.js",
         "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest",
-        "https://cassiolorenzett.github.io/test_pwa/polyfills-es2015.5b10b8fd823b6392f1fd.js",
-        "https://cassiolorenzett.github.io/test_pwa/polyfills-es5.8e50a9832860f7cf804a.js",
+        "https://cassiolorenzett.github.io/test_pwa/polyfills-es2015.da4c9e7a8fb05cf2e1b0.js",
+        "https://cassiolorenzett.github.io/test_pwa/polyfills-es5.4258e647746c0f73f3e2.js",
         "https://cassiolorenzett.github.io/test_pwa/runtime-es2015.c5fa8325f89fc516600b.js",
         "https://cassiolorenzett.github.io/test_pwa/runtime-es5.c5fa8325f89fc516600b.js",
-        "https://cassiolorenzett.github.io/test_pwa/scripts.23a135cee89b461bb9d4.js",
-        "https://cassiolorenzett.github.io/test_pwa/styles.93dc281cdca432bbc337.css"
+        "https://cassiolorenzett.github.io/test_pwa/scripts.bd7743f6f20cbcdd7176.js",
+        "https://cassiolorenzett.github.io/test_pwa/styles.8d4b185e9f74de840c3d.css"
       ],
       "patterns": []
     },
@@ -61,10 +61,11 @@
       "name": "campanha-api",
       "patterns": [
         "https:\\/\\/webhook\\.site\\/[^/]*",
-        "https:\\/\\/apim\\.cotrijuc\\.com\\.br:2083\\/[^/]*"
+        "http:\\/\\/10\\.3\\.2\\.4:90\\/autoriza\\/api\\/campanha",
+        "http:\\/\\/10\\.3\\.2\\.4:90\\/api\\/campanha\\/[^/]*"
       ],
       "strategy": "performance",
-      "maxSize": 1000000,
+      "maxSize": 9000000,
       "maxAge": 2592000000,
       "timeoutMs": 5000,
       "version": 1
@@ -97,16 +98,16 @@
     "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.bea989e82b07e9687c26.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
     "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.ec763292e583294612f1.svg": "a4115fd7ce47ed2b41f7d4e9e7448f28ba3f7508",
     "https://cassiolorenzett.github.io/test_pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://cassiolorenzett.github.io/test_pwa/index.html": "23e335d0b0bbeae15f1ca97c428cbfb31a9280b2",
-    "https://cassiolorenzett.github.io/test_pwa/main-es2015.1a467e5ea3f34c7a5b6e.js": "b6fb9d4b4a403a6b1ac80505b0b693ac098b48ad",
-    "https://cassiolorenzett.github.io/test_pwa/main-es5.1a467e5ea3f34c7a5b6e.js": "af0e5a8e7a2c4ede21c56f60da6b336d69610a21",
+    "https://cassiolorenzett.github.io/test_pwa/index.html": "ed2c2cd27e2b75be94bf81942d7e04e581e4a955",
+    "https://cassiolorenzett.github.io/test_pwa/main-es2015.501cee77f7454af157d7.js": "f62903fe73a874cc32937e8097d59ee11291ea70",
+    "https://cassiolorenzett.github.io/test_pwa/main-es5.501cee77f7454af157d7.js": "07c2b13921e6595413c2717c9a3c29869d2bef42",
     "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest": "5718ec03757ebb742d677253a7a715aac027ce95",
-    "https://cassiolorenzett.github.io/test_pwa/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
-    "https://cassiolorenzett.github.io/test_pwa/polyfills-es5.8e50a9832860f7cf804a.js": "d9c7ea7bdf48a3fe0308f88e6be472be42eb5c3e",
+    "https://cassiolorenzett.github.io/test_pwa/polyfills-es2015.da4c9e7a8fb05cf2e1b0.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
+    "https://cassiolorenzett.github.io/test_pwa/polyfills-es5.4258e647746c0f73f3e2.js": "d9c7ea7bdf48a3fe0308f88e6be472be42eb5c3e",
     "https://cassiolorenzett.github.io/test_pwa/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://cassiolorenzett.github.io/test_pwa/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://cassiolorenzett.github.io/test_pwa/scripts.23a135cee89b461bb9d4.js": "d9ed915f6fdbc3f69f180f226fc6a5dff2f4d8f7",
-    "https://cassiolorenzett.github.io/test_pwa/styles.93dc281cdca432bbc337.css": "cc49e9c981e55cbdd3ba3c78188333b481415e38"
+    "https://cassiolorenzett.github.io/test_pwa/scripts.bd7743f6f20cbcdd7176.js": "d57e6bc9bfb277186ac497bc4c5d285a857984af",
+    "https://cassiolorenzett.github.io/test_pwa/styles.8d4b185e9f74de840c3d.css": "452c845f12089bf336d8232ea7c94f9dad2aca83"
   },
   "navigationUrls": [
     {

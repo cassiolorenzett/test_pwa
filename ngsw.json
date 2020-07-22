@@ -1,0 +1,146 @@
+{
+  "configVersion": 1,
+  "timestamp": 1595435721654,
+  "index": "https://cassiolorenzett.github.io/test_pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://cassiolorenzett.github.io/test_pwa/favicon.ico",
+        "https://cassiolorenzett.github.io/test_pwa/index.html",
+        "https://cassiolorenzett.github.io/test_pwa/main-es2015.0957aa5db344f63043ac.js",
+        "https://cassiolorenzett.github.io/test_pwa/main-es5.0957aa5db344f63043ac.js",
+        "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest",
+        "https://cassiolorenzett.github.io/test_pwa/polyfills-es2015.da4c9e7a8fb05cf2e1b0.js",
+        "https://cassiolorenzett.github.io/test_pwa/polyfills-es5.4258e647746c0f73f3e2.js",
+        "https://cassiolorenzett.github.io/test_pwa/runtime-es2015.c5fa8325f89fc516600b.js",
+        "https://cassiolorenzett.github.io/test_pwa/runtime-es5.c5fa8325f89fc516600b.js",
+        "https://cassiolorenzett.github.io/test_pwa/scripts.bd7743f6f20cbcdd7176.js",
+        "https://cassiolorenzett.github.io/test_pwa/styles.8d4b185e9f74de840c3d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-128x128.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-144x144.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-152x152.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-192x192.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-384x384.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-512x512.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-72x72.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-96x96.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/css/cssfonts.css",
+        "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-128x128.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-144x144.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-152x152.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-192x192.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-384x384.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-512x512.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-72x72.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-96x96.png",
+        "https://cassiolorenzett.github.io/test_pwa/assets/logo.png",
+        "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.0cb5a5c0d251c109458c.svg",
+        "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.13685372945d816a2b47.ttf",
+        "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.a06da7f0950f9dd366fc.woff2",
+        "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.c1868c9545d2de1cf848.eot",
+        "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.ec3cfddedb8bebd2d7a3.woff",
+        "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.261d666b0147c6c5cda0.eot",
+        "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.89ffa3aba80d30ee0a93.svg",
+        "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.c20b5b7362d8d7bb7edd.woff2",
+        "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.db78b9359171f24936b1.ttf",
+        "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.f89ea91ecd1ca2db7e09.woff",
+        "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.1ab236ed440ee51810c5.ttf",
+        "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.a0369ea57eb6d3843d64.eot",
+        "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.b15db15f746f29ffa026.woff2",
+        "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.bea989e82b07e9687c26.woff",
+        "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.ec763292e583294612f1.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "campanha-api",
+      "patterns": [
+        "https:\\/\\/webhook\\.site\\/[^/]*",
+        "http:\\/\\/10\\.3\\.2\\.4:90\\/autoriza\\/api\\/campanha",
+        "http:\\/\\/10\\.3\\.2\\.4:90\\/api\\/campanha\\/[^/]*"
+      ],
+      "strategy": "performance",
+      "maxSize": 9000000,
+      "maxAge": 2592000000,
+      "timeoutMs": 5000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://cassiolorenzett.github.io/test_pwa/assets/_icons_old/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://cassiolorenzett.github.io/test_pwa/assets/css/cssfonts.css": "5f05e17163627d87938d4ac0495dd51569de3761",
+    "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-128x128.png": "02f33118b0cf6e0ee02d93cb2367f2e9ab2c0582",
+    "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-144x144.png": "627f13246c32ee1747b68318ce030a3f5fa1c1e4",
+    "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-152x152.png": "dbd9ab62a962b17535ec8950a8267bc1de43b2da",
+    "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-192x192.png": "9a9b867d2268a859736c8fb9dfc619459306f8f5",
+    "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-384x384.png": "a7053310e3a4215f62c6b9b0651b9740a43720ad",
+    "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-512x512.png": "a9e78681fdc1c30e132a8bac29177f2d44f5a618",
+    "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-72x72.png": "ee9f9aa3176c6d45e19ce9d8698e46a2976c0105",
+    "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-96x96.png": "77251f39e6542f0ec39f4c413f737f2d843061f3",
+    "https://cassiolorenzett.github.io/test_pwa/assets/logo.png": "9a5adbb77cb70ad22bd732bd6b33eebec2b4f330",
+    "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.0cb5a5c0d251c109458c.svg": "d49c07aef6414916b3c6860b42b906e39748e842",
+    "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.13685372945d816a2b47.ttf": "66c86edfd13e63e0e981ce853335c28bc2d20cec",
+    "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.a06da7f0950f9dd366fc.woff2": "509988477da79c146cb93fb728405f18e923c2de",
+    "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.c1868c9545d2de1cf848.eot": "a17db2a5a355befd089bb6e7d53c3d501bf9e827",
+    "https://cassiolorenzett.github.io/test_pwa/fa-brands-400.ec3cfddedb8bebd2d7a3.woff": "8436788e76679c0485b62c80eb7512c6c2e34e88",
+    "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.261d666b0147c6c5cda0.eot": "6299f0e32575f73d8d897f87ce899827f99e20fe",
+    "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.89ffa3aba80d30ee0a93.svg": "3372e92825af3975013cece2390f806023b1b05d",
+    "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.c20b5b7362d8d7bb7edd.woff2": "260bb01acd44d88dcb7f501a238ab968f86bef9e",
+    "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.db78b9359171f24936b1.ttf": "00f569f7d8ac2497a43b25dc4d3b32213bcea31b",
+    "https://cassiolorenzett.github.io/test_pwa/fa-regular-400.f89ea91ecd1ca2db7e09.woff": "8469cb3d9c8189fea64f60aef2753509d770b8df",
+    "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.1ab236ed440ee51810c5.ttf": "ff8f37dfad105796bd924d0db0d37a4ff252618c",
+    "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.a0369ea57eb6d3843d64.eot": "5be5944a17e8b32589a12fdc2b8a8570c9081db4",
+    "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.b15db15f746f29ffa026.woff2": "75a88815c47a249eadb5f0edc1675957f860cca7",
+    "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.bea989e82b07e9687c26.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
+    "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.ec763292e583294612f1.svg": "a4115fd7ce47ed2b41f7d4e9e7448f28ba3f7508",
+    "https://cassiolorenzett.github.io/test_pwa/favicon.ico": "d7d3366c284da00df2bd1832cf5d8ab3af3e303b",
+    "https://cassiolorenzett.github.io/test_pwa/index.html": "744d28cfd1351829459f04174dca7ff174cc490a",
+    "https://cassiolorenzett.github.io/test_pwa/main-es2015.0957aa5db344f63043ac.js": "7baec034c6d817ab936417b33b370adaa5373663",
+    "https://cassiolorenzett.github.io/test_pwa/main-es5.0957aa5db344f63043ac.js": "b6ad5b4f4aa6cffd43bd23552e0d7c606bd1e2a4",
+    "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest": "5718ec03757ebb742d677253a7a715aac027ce95",
+    "https://cassiolorenzett.github.io/test_pwa/polyfills-es2015.da4c9e7a8fb05cf2e1b0.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
+    "https://cassiolorenzett.github.io/test_pwa/polyfills-es5.4258e647746c0f73f3e2.js": "d9c7ea7bdf48a3fe0308f88e6be472be42eb5c3e",
+    "https://cassiolorenzett.github.io/test_pwa/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://cassiolorenzett.github.io/test_pwa/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://cassiolorenzett.github.io/test_pwa/scripts.bd7743f6f20cbcdd7176.js": "d57e6bc9bfb277186ac497bc4c5d285a857984af",
+    "https://cassiolorenzett.github.io/test_pwa/styles.8d4b185e9f74de840c3d.css": "452c845f12089bf336d8232ea7c94f9dad2aca83"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

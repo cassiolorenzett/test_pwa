@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595355689583,
+  "timestamp": 1595435721654,
   "index": "https://cassiolorenzett.github.io/test_pwa/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://cassiolorenzett.github.io/test_pwa/favicon.ico",
         "https://cassiolorenzett.github.io/test_pwa/index.html",
-        "https://cassiolorenzett.github.io/test_pwa/main-es2015.e5effb77f4e381181926.js",
-        "https://cassiolorenzett.github.io/test_pwa/main-es5.e5effb77f4e381181926.js",
+        "https://cassiolorenzett.github.io/test_pwa/main-es2015.0957aa5db344f63043ac.js",
+        "https://cassiolorenzett.github.io/test_pwa/main-es5.0957aa5db344f63043ac.js",
         "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest",
         "https://cassiolorenzett.github.io/test_pwa/polyfills-es2015.da4c9e7a8fb05cf2e1b0.js",
         "https://cassiolorenzett.github.io/test_pwa/polyfills-es5.4258e647746c0f73f3e2.js",
@@ -114,9 +114,9 @@
     "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.bea989e82b07e9687c26.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
     "https://cassiolorenzett.github.io/test_pwa/fa-solid-900.ec763292e583294612f1.svg": "a4115fd7ce47ed2b41f7d4e9e7448f28ba3f7508",
     "https://cassiolorenzett.github.io/test_pwa/favicon.ico": "d7d3366c284da00df2bd1832cf5d8ab3af3e303b",
-    "https://cassiolorenzett.github.io/test_pwa/index.html": "d92717bb95f4d630d2bf74246fa68ef88b7e25de",
-    "https://cassiolorenzett.github.io/test_pwa/main-es2015.e5effb77f4e381181926.js": "06b74864723f8043260a5cdafde8fcb96e31a4fa",
-    "https://cassiolorenzett.github.io/test_pwa/main-es5.e5effb77f4e381181926.js": "ac3e1189fa98286f2158798e6e27e8d68be56ba8",
+    "https://cassiolorenzett.github.io/test_pwa/index.html": "744d28cfd1351829459f04174dca7ff174cc490a",
+    "https://cassiolorenzett.github.io/test_pwa/main-es2015.0957aa5db344f63043ac.js": "7baec034c6d817ab936417b33b370adaa5373663",
+    "https://cassiolorenzett.github.io/test_pwa/main-es5.0957aa5db344f63043ac.js": "b6ad5b4f4aa6cffd43bd23552e0d7c606bd1e2a4",
     "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest": "5718ec03757ebb742d677253a7a715aac027ce95",
     "https://cassiolorenzett.github.io/test_pwa/polyfills-es2015.da4c9e7a8fb05cf2e1b0.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "https://cassiolorenzett.github.io/test_pwa/polyfills-es5.4258e647746c0f73f3e2.js": "d9c7ea7bdf48a3fe0308f88e6be472be42eb5c3e",

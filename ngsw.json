@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1628707137394,
+  "timestamp": 1628707837372,
   "index": "https://cassiolorenzett.github.io/test_pwa/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest",
         "https://cassiolorenzett.github.io/test_pwa/polyfills.f5f7fd14d7435c199182.js",
         "https://cassiolorenzett.github.io/test_pwa/runtime.b0930ed2a9f686c57f82.js",
-        "https://cassiolorenzett.github.io/test_pwa/styles.31d6cfe0d16ae931b73c.css"
+        "https://cassiolorenzett.github.io/test_pwa/styles.e2a43b8ba4c42591279f.css"
       ],
       "patterns": []
     },
@@ -52,12 +52,12 @@
     "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://cassiolorenzett.github.io/test_pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://cassiolorenzett.github.io/test_pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://cassiolorenzett.github.io/test_pwa/index.html": "d6949fbbb89daac218d308501a13461003a18abc",
+    "https://cassiolorenzett.github.io/test_pwa/index.html": "6d1df2d2bcff8f69cc1fd9e830714f3999bb2312",
     "https://cassiolorenzett.github.io/test_pwa/main.d77cfd20b79346d61a12.js": "a08167c4fe904e67e9c5e8f102f4cfea82acdc69",
-    "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest": "5b0d878c5f513ffd839bb0cf404867dffd27e8a9",
+    "https://cassiolorenzett.github.io/test_pwa/manifest.webmanifest": "b9b6ee277ab1d1c529c50644544d378f88177020",
     "https://cassiolorenzett.github.io/test_pwa/polyfills.f5f7fd14d7435c199182.js": "4ce50ce8d058d9bb037a6562a5a2c5a78624912f",
     "https://cassiolorenzett.github.io/test_pwa/runtime.b0930ed2a9f686c57f82.js": "9b0bf247df48e680cefd2615361dbb086288b5ec",
-    "https://cassiolorenzett.github.io/test_pwa/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://cassiolorenzett.github.io/test_pwa/styles.e2a43b8ba4c42591279f.css": "891126d333f552ac16efc4fc0ecc530059300f0a"
   },
   "navigationUrls": [
     {
